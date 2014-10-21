@@ -5,6 +5,8 @@ Android Lollipop 中的新特性
 
 ## Palette
 
+[http://baoyz.com/android/2014/10/21/android-palette-use/](http://baoyz.com/android/2014/10/21/android-palette-use/)
+
 ### Screenshot
 
 <p>
