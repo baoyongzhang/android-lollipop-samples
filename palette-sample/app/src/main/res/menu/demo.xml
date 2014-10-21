@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".DemoActivity">
+    <item
+        android:id="@+id/action_pic_1"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_pic_1" />
+
+    <item
+        android:id="@+id/action_pic_2"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_pic_2" />
+
+    <item
+        android:id="@+id/action_pic_3"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_pic_3" />
+</menu>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">palette-sample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_my">MyActivity</string>
+    <string name="action_pic_2">图片2</string>
+    <string name="action_pic_1">图片1</string>
+    <string name="action_select">选择图片</string>
+    <string name="action_pic_3">图片3</string>
+
+</resources>

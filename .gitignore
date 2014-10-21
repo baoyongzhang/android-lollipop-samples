@@ -71,3 +71,7 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+
+# IntelliJ
+*.iml
+.idea
